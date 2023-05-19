@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: d3559071ac1b0c341b484f08c56b95bf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Cap
+    100004: Bip001 CapNub
+    100006: Bip001 Head
+    100008: Bip001 HeadNub
+    100010: Bip001 Jaw
+    100012: Bip001 JawNub
+    100014: Bip001 L Calf
+    100016: Bip001 L Clavicle
+    100018: Bip001 L Finger0
+    100020: Bip001 L Finger01
+    100022: Bip001 L Finger0Nub
+    100024: Bip001 L Finger1
+    100026: Bip001 L Finger11
+    100028: Bip001 L Finger1Nub
+    100030: Bip001 L Foot
+    100032: Bip001 L Forearm
+    100034: Bip001 L ForeTwist
+    100036: Bip001 L ForeTwist1
+    100038: Bip001 L Hand
+    100040: Bip001 L Thigh
+    100042: Bip001 L Toe0
+    100044: Bip001 L Toe0Nub
+    100046: Bip001 L UpperArm
+    100048: Bip001 LCalfTwist
+    100050: Bip001 LCalfTwist1
+    100052: Bip001 LUpArmTwist
+    100054: Bip001 LUpArmTwist1
+    100056: Bip001 Neck
+    100058: Bip001 Pelvis
+    100060: Bip001 R Calf
+    100062: Bip001 R Clavicle
+    100064: Bip001 R Finger0
+    100066: Bip001 R Finger01
+    100068: Bip001 R Finger0Nub
+    100070: Bip001 R Finger1
+    100072: Bip001 R Finger11
+    100074: Bip001 R Finger1Nub
+    100076: Bip001 R Foot
+    100078: Bip001 R Forearm
+    100080: Bip001 R ForeTwist
+    100082: Bip001 R ForeTwist1
+    100084: Bip001 R Hand
+    100086: Bip001 R Thigh
+    100088: Bip001 R Toe0
+    100090: Bip001 R Toe0Nub
+    100092: Bip001 R UpperArm
+    100094: Bip001 RCalfTwist
+    100096: Bip001 RCalfTwist1
+    100098: Bip001 RUpArmTwist
+    100100: Bip001 RUpArmTwist1
+    100102: Bip001 Spine
+    100104: Bip001 Spine1
+    100106: Bip001 Spine2
+    100108: Bone  Base Left 2
+    100110: Bone Base 1
+    100112: Bone Base 2
+    100114: Bone Base 3
+    100116: Bone Base 4
+    100118: Bone Base Left 1
+    100120: Bone Base Right 1
+    100122: Bone Base Right 2
+    100124: Bone Cheetah Tail 1
+    100126: Bone Cheetah Tail 2
+    100128: Bone Cheetah Tail 3
+    100130: Bone Cheetah Tail 4
+    100132: Bone Cheetah Tail 5
+    100134: Bone Cheetah Tail 6
+    100136: Bone Cheetah Tail 7
+    100138: Bone Cheetah Tail End
+    100140: Bone Cheetah Tail FK 1
+    100142: Bone Cheetah Tail FK 2
+    100144: Bone Cheetah Tail FK 3
+    100146: Bone Cheetah Tail FK 4
+    100148: Bone Cheetah Tail FK 5
+    100150: Bone Cheetah Tail FK 6
+    100152: Bone Cheetah Tail FK 7
+    100154: Bone Cheetah Tail IK 1
+    100156: Bone Cheetah Tail IK 2
+    100158: Bone Cheetah Tail IK 3
+    100160: Bone Cheetah Tail IK 4
+    100162: Bone Cheetah Tail IK 5
+    100164: Bone Cheetah Tail IK 6
+    100166: Bone Cheetah Tail IK 7
+    100168: Bone Cheetah Tail IK End
+    100170: Bone Cheetah Tail Root
+    100172: Bone Eye Left
+    100174: Bone Eye Right
+    100176: Bone Eyelid Bot Left
+    100178: Bone Eyelid Bot Right
+    100180: Bone Eyelid Top Left
+    100182: Bone Eyelid Top Right
+    100184: Bone Hair
+    100186: Bone Hair End
+    100188: Bone Hair Root
+    100190: Bone Hat 1
+    100192: Bone Hat 1 End
+    100194: Bone Hat 2
+    100196: Bone Hat 2 End
+    100198: Bone Hat 3
+    100200: Bone Hat 3 End
+    100202: Bone Hat 4
+    100204: Bone Hat 4 End
+    100206: Bone Lid 1
+    100208: Bone Lid 2
+    100210: Bone Lid 3
+    100212: Bone Lid 4
+    100214: Bone Lid left 1
+    100216: Bone Lid Left 2
+    100218: Bone Lid Right 1
+    100220: Bone Lid Right 2
+    100222: Bone Monkey Jaw
+    100224: Bone Monkey Jaw End
+    100226: Bone Monkey Jaw Root
+    100228: Bone Monkey Pizza Base
+    100230: Bone Monkey Pizza Lid
+    100232: Dummy Bmx Boy
+    100234: Dummy Cheetah Tail
+    100236: Dummy Eye Left
+    100238: Dummy Eye Right
+    100240: Dummy Monkey Jaw
+    100242: Dummy Monkey Pizza
+    100244: IK Chain Cheetah Tail
+    100246: Monkey
+    100248: Monkey Cap
+    100250: Monkey Pizza
+    100252: //RootNode
+    100254: Monkey_L_Eye
+    100256: Monkey_R_Eye
+    100258: Rig Cheetah Tail Ik Fk Switch
+    100260: Rig Controller Tail 1
+    100262: Rig Controller Tail 2
+    100264: Rig Controller Tail 3
+    100266: Rig Controller Tail 4
+    100268: Rig Controller Tail 5
+    100270: Rig Controller Tail 6
+    100272: Rig Controller Tail 7
+    100274: Rig Controller Tail Ik
+    100276: Rig Controller Tail Ik Rotation
+    400000: Bip001
+    400002: Bip001 Cap
+    400004: Bip001 CapNub
+    400006: Bip001 Head
+    400008: Bip001 HeadNub
+    400010: Bip001 Jaw
+    400012: Bip001 JawNub
+    400014: Bip001 L Calf
+    400016: Bip001 L Clavicle
+    400018: Bip001 L Finger0
+    400020: Bip001 L Finger01
+    400022: Bip001 L Finger0Nub
+    400024: Bip001 L Finger1
+    400026: Bip001 L Finger11
+    400028: Bip001 L Finger1Nub
+    400030: Bip001 L Foot
+    400032: Bip001 L Forearm
+    400034: Bip001 L ForeTwist
+    400036: Bip001 L ForeTwist1
+    400038: Bip001 L Hand
+    400040: Bip001 L Thigh
+    400042: Bip001 L Toe0
+    400044: Bip001 L Toe0Nub
+    400046: Bip001 L UpperArm
+    400048: Bip001 LCalfTwist
+    400050: Bip001 LCalfTwist1
+    400052: Bip001 LUpArmTwist
+    400054: Bip001 LUpArmTwist1
+    400056: Bip001 Neck
+    400058: Bip001 Pelvis
+    400060: Bip001 R Calf
+    400062: Bip001 R Clavicle
+    400064: Bip001 R Finger0
+    400066: Bip001 R Finger01
+    400068: Bip001 R Finger0Nub
+    400070: Bip001 R Finger1
+    400072: Bip001 R Finger11
+    400074: Bip001 R Finger1Nub
+    400076: Bip001 R Foot
+    400078: Bip001 R Forearm
+    400080: Bip001 R ForeTwist
+    400082: Bip001 R ForeTwist1
+    400084: Bip001 R Hand
+    400086: Bip001 R Thigh
+    400088: Bip001 R Toe0
+    400090: Bip001 R Toe0Nub
+    400092: Bip001 R UpperArm
+    400094: Bip001 RCalfTwist
+    400096: Bip001 RCalfTwist1
+    400098: Bip001 RUpArmTwist
+    400100: Bip001 RUpArmTwist1
+    400102: Bip001 Spine
+    400104: Bip001 Spine1
+    400106: Bip001 Spine2
+    400108: Bone  Base Left 2
+    400110: Bone Base 1
+    400112: Bone Base 2
+    400114: Bone Base 3
+    400116: Bone Base 4
+    400118: Bone Base Left 1
+    400120: Bone Base Right 1
+    400122: Bone Base Right 2
+    400124: Bone Cheetah Tail 1
+    400126: Bone Cheetah Tail 2
+    400128: Bone Cheetah Tail 3
+    400130: Bone Cheetah Tail 4
+    400132: Bone Cheetah Tail 5
+    400134: Bone Cheetah Tail 6
+    400136: Bone Cheetah Tail 7
+    400138: Bone Cheetah Tail End
+    400140: Bone Cheetah Tail FK 1
+    400142: Bone Cheetah Tail FK 2
+    400144: Bone Cheetah Tail FK 3
+    400146: Bone Cheetah Tail FK 4
+    400148: Bone Cheetah Tail FK 5
+    400150: Bone Cheetah Tail FK 6
+    400152: Bone Cheetah Tail FK 7
+    400154: Bone Cheetah Tail IK 1
+    400156: Bone Cheetah Tail IK 2
+    400158: Bone Cheetah Tail IK 3
+    400160: Bone Cheetah Tail IK 4
+    400162: Bone Cheetah Tail IK 5
+    400164: Bone Cheetah Tail IK 6
+    400166: Bone Cheetah Tail IK 7
+    400168: Bone Cheetah Tail IK End
+    400170: Bone Cheetah Tail Root
+    400172: Bone Eye Left
+    400174: Bone Eye Right
+    400176: Bone Eyelid Bot Left
+    400178: Bone Eyelid Bot Right
+    400180: Bone Eyelid Top Left
+    400182: Bone Eyelid Top Right
+    400184: Bone Hair
+    400186: Bone Hair End
+    400188: Bone Hair Root
+    400190: Bone Hat 1
+    400192: Bone Hat 1 End
+    400194: Bone Hat 2
+    400196: Bone Hat 2 End
+    400198: Bone Hat 3
+    400200: Bone Hat 3 End
+    400202: Bone Hat 4
+    400204: Bone Hat 4 End
+    400206: Bone Lid 1
+    400208: Bone Lid 2
+    400210: Bone Lid 3
+    400212: Bone Lid 4
+    400214: Bone Lid left 1
+    400216: Bone Lid Left 2
+    400218: Bone Lid Right 1
+    400220: Bone Lid Right 2
+    400222: Bone Monkey Jaw
+    400224: Bone Monkey Jaw End
+    400226: Bone Monkey Jaw Root
+    400228: Bone Monkey Pizza Base
+    400230: Bone Monkey Pizza Lid
+    400232: Dummy Bmx Boy
+    400234: Dummy Cheetah Tail
+    400236: Dummy Eye Left
+    400238: Dummy Eye Right
+    400240: Dummy Monkey Jaw
+    400242: Dummy Monkey Pizza
+    400244: IK Chain Cheetah Tail
+    400246: Monkey
+    400248: Monkey Cap
+    400250: Monkey Pizza
+    400252: //RootNode
+    400254: Monkey_L_Eye
+    400256: Monkey_R_Eye
+    400258: Rig Cheetah Tail Ik Fk Switch
+    400260: Rig Controller Tail 1
+    400262: Rig Controller Tail 2
+    400264: Rig Controller Tail 3
+    400266: Rig Controller Tail 4
+    400268: Rig Controller Tail 5
+    400270: Rig Controller Tail 6
+    400272: Rig Controller Tail 7
+    400274: Rig Controller Tail Ik
+    400276: Rig Controller Tail Ik Rotation
+    2100000: No Name
+    2100002: Monkey
+    2300000: Rig Cheetah Tail Ik Fk Switch
+    3300000: Rig Cheetah Tail Ik Fk Switch
+    4300000: Rig Cheetah Tail Ik Fk Switch
+    4300002: Monkey_R_Eye
+    4300004: Monkey_L_Eye
+    4300006: Monkey
+    4300008: Monkey Pizza
+    4300010: Monkey Cap
+    7400000: Ride
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Monkey
+    13700002: Monkey Cap
+    13700004: Monkey Pizza
+    13700006: Monkey_L_Eye
+    13700008: Monkey_R_Eye
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monkey
+    second: {fileID: 2100000, guid: 81bf0497eda970248a214d1c1962d336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 81bf0497eda970248a214d1c1962d336, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Ride
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 17
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
